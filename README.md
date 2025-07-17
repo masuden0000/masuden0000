@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="masuden0000" width="300" /> </p>
   
 <h1 align="center">Hi 👋, I'm Huda Rasyad Wicaksono</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate frontend developer, machine learning, and UI UX from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masuden0000&label=Profile%20views&color=0e75b6&style=flat" alt="masuden0000" /> </p>
 
